@@ -10,7 +10,7 @@ With accurate sales prediction, it guarantees that sufficient products will be m
 
 ## Pipeline
 * **Set up a metric:** According to the problem description, root mean square error (RMSE) is used to evaluate the performance. For regular classification problem, accuracy is selected as the evaluation metric; for unbalanced data, AUC is a useful metric.
-*  **Exploratory data analysis (EDA):** Dive into the data to get some insights. This step includes visualizing data, developing a good understanding of data type, statistical information, data distribution, and correlation analysis.
+*  **Exploratory data analysis (EDA):** Dive into the data to get some insights. This step includes visualizing data, developing a good understanding of data type, statistical information, data distribution, and analyzing correlations.
 * **Data cleaning:** Based on EDA, outliers are either removed or replaced with the median of its group; duplicate records are removed; no missing values need to be dealt with.
 * **Feature engineering:**  New features, such as month, days, city, statistical features, trend features, first sales and last sales, etc. are derived. Feature selection is performed to remove the features that has little correlation with the target value.  
 * **Train/validation split:** The first 32 months are selected as training set; 33rd month is selected as validation set; 34th month is used as test set. 
