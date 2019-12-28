@@ -1,7 +1,7 @@
 # Predict Future Sales
 
 ## Problem description
-Problem description can be found here: [predict future sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+A time-series dataset consisting of daily sales data is kindly provided by one of the largest Russian software firms. The task is to predict total sales for every product and store in the next month.
 
 All datasets can be found here: [dataset](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data)
 
