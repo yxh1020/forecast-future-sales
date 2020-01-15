@@ -1,4 +1,4 @@
-# Predict Future Sales
+# Forecast Future Sales
 
 ## Problem description
 A time-series dataset consisting of daily sales data is kindly provided by one of the largest Russian software firms. The task is to predict total sales for every product and store in the next month.
