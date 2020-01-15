@@ -15,7 +15,7 @@ With accurate sales prediction, it guarantees that sufficient products will be m
 * **Feature engineering:**  New features, such as month, days, city, statistical features, trend features, first sales and last sales, etc. are derived. Feature selection is performed to remove the features that has little correlation with the target value.  
 * **Train/validation split:** The first 32 months are selected as training set; 33rd month is selected as validation set; 34th month is used as test set. 
 * **Develop models:** Multiple machine learning algorithms (Linear Regression, Random Forest, xgboost) are applied to predictive modeling. Hyperparameters tuning is performed to optimize the performance.
-* **Compare Performance:** * Among all the algorithms, xgboost has the best performance, achieving a RMSE of 0.91704 in the unseen test set.
+* **Compare Performance:** Among all the algorithms, xgboost has the best performance, achieving a RMSE of 0.91704 in the unseen test set.
 
 
 
